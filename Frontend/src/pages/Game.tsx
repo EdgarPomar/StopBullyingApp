@@ -4,6 +4,7 @@ import reflexiones from "../data/reflexiones.json";
 import ReflexionModal from "../components/ReflexionModal";
 import { useNavigate } from "react-router-dom";
 import EscenaCard from "../components/EsceneCard";
+import "../styles/game.css"; // Importamos el CSS separado
 
 export default function Juego() {
   const [index, setIndex] = useState(0);
@@ -28,13 +29,16 @@ export default function Juego() {
   };
 
   return (
-    <div style={styles.container}>
-      <div style={styles.header}>
+    <div className="juego-container">
+      <div className="juego-header">
         <span>Escena {index + 1} de {escenas.length}</span>
-        <button style={styles.salir} onClick={() => nav("/home")}>Salir</button>
+        <button className="btn-salir" onClick={() => nav("/home")}>Salir</button>
       </div>
-      <div style={styles.progreso}>
-        <div style={{ ...styles.progresoBarra, width: `${((index + 1) / escenas.length) * 100}%` }}></div>
+      <div className="progreso">
+        <div
+          className="progreso-barra"
+          style={{ width: `${((index + 1) / escenas.length) * 100}%` }}
+        ></div>
       </div>
       <EscenaCard
         titulo={escena.titulo}
@@ -48,33 +52,3 @@ export default function Juego() {
     </div>
   );
 }
-
-const styles = {
-  container: { padding: "40px" },
-  header: {
-    display: "flex",
-    justifyContent: "space-between",
-    marginBottom: "10px",
-    fontWeight: "bold"
-  },
-  salir: {
-    backgroundColor: "#f44336",
-    color: "white",
-    padding: "6px 12px",
-    border: "none",
-    borderRadius: "5px",
-    cursor: "pointer"
-  },
-  progreso: {
-    background: "#eee",
-    height: "10px",
-    borderRadius: "5px",
-    marginBottom: "20px"
-  },
-  progresoBarra: {
-    height: "100%",
-    backgroundColor: "#4CAF50",
-    borderRadius: "5px",
-    transition: "width 0.3s ease"
-  }
-};

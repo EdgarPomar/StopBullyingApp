@@ -2,116 +2,56 @@
   {
     "id": 1,
     "titulo": "Burlas en el recreo",
-    "descripcion": "Un grupo se ríe de un compañero por su ropa desgastada durante el recreo.",
+    "descripcion": "Un grupo se ríe de un compañero por su ropa durante el recreo.",
     "preguntas": [
-      {
-        "idRespuesta": "1A",
-        "texto": "Ignorar la situación y no involucrarse."
-      },
-      {
-        "idRespuesta": "1B",
-        "texto": "Unirse a la burla para no quedar mal."
-      },
-      {
-        "idRespuesta": "1C",
-        "texto": "Defender a la víctima y pedir que se detenga."
-      },
-      {
-        "idRespuesta": "1D",
-        "texto": "Avisar a un adulto responsable para que intervenga."
-      }
+      { "idRespuesta": "1C", "texto": "Decirles que no está bien burlarse." },
+      { "idRespuesta": "1A", "texto": "Hacer como si nada y seguir jugando." },
+      { "idRespuesta": "1D", "texto": "Contárselo a un profesor para que intervenga." },
+      { "idRespuesta": "1B", "texto": "Reírte para no sentirte fuera del grupo." }
     ]
   },
   {
     "id": 2,
     "titulo": "Rumores en redes sociales",
-    "descripcion": "Un chat de WhatsApp comparte burlas y fotos editadas de una compañera.",
+    "descripcion": "En un chat de clase se comparten memes ofensivos sobre una compañera.",
     "preguntas": [
-      {
-        "idRespuesta": "2A",
-        "texto": "Ignorar la situación y no involucrarse."
-      },
-      {
-        "idRespuesta": "2B",
-        "texto": "Unirse a la burla para no quedar mal."
-      },
-      {
-        "idRespuesta": "2C",
-        "texto": "Defender a la víctima y pedir que se detenga."
-      },
-      {
-        "idRespuesta": "2D",
-        "texto": "Avisar a un adulto responsable para que intervenga."
-      }
+      { "idRespuesta": "2B", "texto": "Seguir la broma para no quedar mal." },
+      { "idRespuesta": "2D", "texto": "Avisar a un adulto para que actúe." },
+      { "idRespuesta": "2A", "texto": "Salir del chat sin decir nada." },
+      { "idRespuesta": "2C", "texto": "Escribir que eso no es correcto y que debería parar." }
     ]
   },
   {
     "id": 3,
     "titulo": "Exclusión en clase",
-    "descripcion": "En un trabajo en grupo, no dejan participar a un compañero porque es tímido.",
+    "descripcion": "En un trabajo grupal, tus compañeros ignoran a uno de los integrantes.",
     "preguntas": [
-      {
-        "idRespuesta": "3A",
-        "texto": "Ignorar la situación y no involucrarse."
-      },
-      {
-        "idRespuesta": "3B",
-        "texto": "Unirse a la burla para no quedar mal."
-      },
-      {
-        "idRespuesta": "3C",
-        "texto": "Defender a la víctima y pedir que se detenga."
-      },
-      {
-        "idRespuesta": "3D",
-        "texto": "Avisar a un adulto responsable para que intervenga."
-      }
+      { "idRespuesta": "3C", "texto": "Invitar al compañero a dar sus ideas." },
+      { "idRespuesta": "3A", "texto": "No intervenir y concentrarte en tu tarea." },
+      { "idRespuesta": "3B", "texto": "Unirte a la exclusión para encajar." },
+      { "idRespuesta": "3D", "texto": "Contarle al profesor lo que está pasando." }
     ]
   },
   {
     "id": 4,
     "titulo": "Comentario ofensivo en clase",
-    "descripcion": "Un estudiante hace un comentario humillante sobre otro frente a todos.",
+    "descripcion": "Un estudiante dice algo hiriente sobre otro delante de todos.",
     "preguntas": [
-      {
-        "idRespuesta": "4A",
-        "texto": "Ignorar la situación y no involucrarse."
-      },
-      {
-        "idRespuesta": "4B",
-        "texto": "Unirse a la burla para no quedar mal."
-      },
-      {
-        "idRespuesta": "4C",
-        "texto": "Defender a la víctima y pedir que se detenga."
-      },
-      {
-        "idRespuesta": "4D",
-        "texto": "Avisar a un adulto responsable para que intervenga."
-      }
+      { "idRespuesta": "4D", "texto": "Avisar al profesor sobre lo ocurrido." },
+      { "idRespuesta": "4B", "texto": "Reírte para no sentirte excluido." },
+      { "idRespuesta": "4A", "texto": "Ignorar el comentario y no involucrarte." },
+      { "idRespuesta": "4C", "texto": "Defender al compañero con respeto." }
     ]
   },
   {
     "id": 5,
     "titulo": "Empujón en el pasillo",
-    "descripcion": "Ves a alguien empujar a un compañero más pequeño en el pasillo.",
+    "descripcion": "Ves a alguien empujar a un compañero en el pasillo de la escuela.",
     "preguntas": [
-      {
-        "idRespuesta": "5A",
-        "texto": "Ignorar la situación y no involucrarse."
-      },
-      {
-        "idRespuesta": "5B",
-        "texto": "Unirse a la burla para no quedar mal."
-      },
-      {
-        "idRespuesta": "5C",
-        "texto": "Defender a la víctima y pedir que se detenga."
-      },
-      {
-        "idRespuesta": "5D",
-        "texto": "Avisar a un adulto responsable para que intervenga."
-      }
+      { "idRespuesta": "5C", "texto": "Ayudar a la víctima y pedir que paren." },
+      { "idRespuesta": "5D", "texto": "Buscar a un adulto para que intervenga." },
+      { "idRespuesta": "5A", "texto": "Hacer como que no viste nada." },
+      { "idRespuesta": "5B", "texto": "Animar al agresor para que lo repita." }
     ]
   },
   {
@@ -119,22 +59,10 @@
     "titulo": "Burlas por acento",
     "descripcion": "Un estudiante nuevo es ridiculizado por cómo pronuncia las palabras.",
     "preguntas": [
-      {
-        "idRespuesta": "6A",
-        "texto": "Ignorar la situación y no involucrarse."
-      },
-      {
-        "idRespuesta": "6B",
-        "texto": "Unirse a la burla para no quedar mal."
-      },
-      {
-        "idRespuesta": "6C",
-        "texto": "Defender a la víctima y pedir que se detenga."
-      },
-      {
-        "idRespuesta": "6D",
-        "texto": "Avisar a un adulto responsable para que intervenga."
-      }
+      { "idRespuesta": "6C", "texto": "Pedir que respeten la forma de hablar del compañero." },
+      { "idRespuesta": "6A", "texto": "Hacer como si no escuchaste nada." },
+      { "idRespuesta": "6D", "texto": "Contar la situación a un profesor." },
+      { "idRespuesta": "6B", "texto": "Unirte a las burlas para quedar bien." }
     ]
   },
   {
@@ -142,68 +70,32 @@
     "titulo": "Insultos en un chat",
     "descripcion": "En un grupo de clase se envían insultos hacia un compañero.",
     "preguntas": [
-      {
-        "idRespuesta": "7A",
-        "texto": "Ignorar la situación y no involucrarse."
-      },
-      {
-        "idRespuesta": "7B",
-        "texto": "Unirse a la burla para no quedar mal."
-      },
-      {
-        "idRespuesta": "7C",
-        "texto": "Defender a la víctima y pedir que se detenga."
-      },
-      {
-        "idRespuesta": "7D",
-        "texto": "Avisar a un adulto responsable para que intervenga."
-      }
+      { "idRespuesta": "7B", "texto": "Reírte de los insultos para agradar al grupo." },
+      { "idRespuesta": "7C", "texto": "Decir que insultar no es correcto." },
+      { "idRespuesta": "7D", "texto": "Mostrar los mensajes a un adulto." },
+      { "idRespuesta": "7A", "texto": "Ignorar los mensajes y seguir en el chat." }
     ]
   },
   {
     "id": 8,
     "titulo": "Esconder pertenencias",
-    "descripcion": "Un estudiante sufre bromas pesadas, le esconden sus cosas personales.",
+    "descripcion": "A un compañero le esconden sus cosas como broma pesada.",
     "preguntas": [
-      {
-        "idRespuesta": "8A",
-        "texto": "Ignorar la situación y no involucrarse."
-      },
-      {
-        "idRespuesta": "8B",
-        "texto": "Unirse a la burla para no quedar mal."
-      },
-      {
-        "idRespuesta": "8C",
-        "texto": "Defender a la víctima y pedir que se detenga."
-      },
-      {
-        "idRespuesta": "8D",
-        "texto": "Avisar a un adulto responsable para que intervenga."
-      }
+      { "idRespuesta": "8A", "texto": "Actuar como si no supieras nada." },
+      { "idRespuesta": "8C", "texto": "Ayudarle a recuperar sus cosas y pedir que paren." },
+      { "idRespuesta": "8B", "texto": "Unirte a la broma para no ser excluido." },
+      { "idRespuesta": "8D", "texto": "Contarle al profesor lo sucedido." }
     ]
   },
   {
     "id": 9,
     "titulo": "Foto ofensiva en redes",
-    "descripcion": "Encuentras un meme humillante sobre un compañero en redes sociales.",
+    "descripcion": "Encuentras un meme ofensivo sobre un compañero en redes sociales.",
     "preguntas": [
-      {
-        "idRespuesta": "9A",
-        "texto": "Ignorar la situación y no involucrarse."
-      },
-      {
-        "idRespuesta": "9B",
-        "texto": "Unirse a la burla para no quedar mal."
-      },
-      {
-        "idRespuesta": "9C",
-        "texto": "Defender a la víctima y pedir que se detenga."
-      },
-      {
-        "idRespuesta": "9D",
-        "texto": "Avisar a un adulto responsable para que intervenga."
-      }
+      { "idRespuesta": "9D", "texto": "Avisar a un adulto o al propio afectado." },
+      { "idRespuesta": "9B", "texto": "Compartir la imagen para reírte." },
+      { "idRespuesta": "9A", "texto": "Ignorar la imagen y seguir navegando." },
+      { "idRespuesta": "9C", "texto": "Comentar que eso no está bien." }
     ]
   },
   {
@@ -211,252 +103,120 @@
     "titulo": "Forzar a dar dinero",
     "descripcion": "Un estudiante amenaza a otro para quitarle su almuerzo o dinero.",
     "preguntas": [
-      {
-        "idRespuesta": "10A",
-        "texto": "Ignorar la situación y no involucrarse."
-      },
-      {
-        "idRespuesta": "10B",
-        "texto": "Unirse a la burla para no quedar mal."
-      },
-      {
-        "idRespuesta": "10C",
-        "texto": "Defender a la víctima y pedir que se detenga."
-      },
-      {
-        "idRespuesta": "10D",
-        "texto": "Avisar a un adulto responsable para que intervenga."
-      }
+      { "idRespuesta": "10D", "texto": "Buscar a un profesor inmediatamente." },
+      { "idRespuesta": "10B", "texto": "Animar al agresor para que continúe." },
+      { "idRespuesta": "10C", "texto": "Decirle que eso no está bien y ayudar a la víctima." },
+      { "idRespuesta": "10A", "texto": "Mirar hacia otro lado y seguir caminando." }
     ]
   },
   {
     "id": 11,
     "titulo": "Chantaje con fotos",
-    "descripcion": "Alguien amenaza con publicar fotos privadas de un compañero si no obedece.",
+    "descripcion": "Un alumno amenaza con publicar fotos privadas si la víctima no obedece.",
     "preguntas": [
-      {
-        "idRespuesta": "11A",
-        "texto": "Ignorar la situación y no involucrarse."
-      },
-      {
-        "idRespuesta": "11B",
-        "texto": "Unirse a la burla para no quedar mal."
-      },
-      {
-        "idRespuesta": "11C",
-        "texto": "Defender a la víctima y pedir que se detenga."
-      },
-      {
-        "idRespuesta": "11D",
-        "texto": "Avisar a un adulto responsable para que intervenga."
-      }
+      { "idRespuesta": "11B", "texto": "Apoyar al agresor para quedar bien con él." },
+      { "idRespuesta": "11D", "texto": "Contar lo que ocurre a un adulto de confianza." },
+      { "idRespuesta": "11C", "texto": "Decirle a la víctima que no debe ceder al chantaje." },
+      { "idRespuesta": "11A", "texto": "Ignorar el problema y no decir nada." }
     ]
   },
   {
     "id": 12,
     "titulo": "Burlas por discapacidad",
-    "descripcion": "Un alumno con discapacidad recibe comentarios crueles sobre su condición.",
+    "descripcion": "Un compañero recibe burlas crueles por su discapacidad física.",
     "preguntas": [
-      {
-        "idRespuesta": "12A",
-        "texto": "Ignorar la situación y no involucrarse."
-      },
-      {
-        "idRespuesta": "12B",
-        "texto": "Unirse a la burla para no quedar mal."
-      },
-      {
-        "idRespuesta": "12C",
-        "texto": "Defender a la víctima y pedir que se detenga."
-      },
-      {
-        "idRespuesta": "12D",
-        "texto": "Avisar a un adulto responsable para que intervenga."
-      }
+      { "idRespuesta": "12C", "texto": "Decirles que esas burlas son hirientes y deben parar." },
+      { "idRespuesta": "12D", "texto": "Avisar a un profesor para que intervenga." },
+      { "idRespuesta": "12A", "texto": "Ignorar los comentarios y seguir como si nada." },
+      { "idRespuesta": "12B", "texto": "Reírte junto con los demás para no ser excluido." }
     ]
   },
   {
     "id": 13,
-    "titulo": "Bloqueo en juegos online",
-    "descripcion": "Un grupo excluye a un compañero de sus partidas y se burlan de él.",
+    "titulo": "Exclusión en juegos online",
+    "descripcion": "Un grupo deja fuera a un compañero de sus partidas y se burla de él.",
     "preguntas": [
-      {
-        "idRespuesta": "13A",
-        "texto": "Ignorar la situación y no involucrarse."
-      },
-      {
-        "idRespuesta": "13B",
-        "texto": "Unirse a la burla para no quedar mal."
-      },
-      {
-        "idRespuesta": "13C",
-        "texto": "Defender a la víctima y pedir que se detenga."
-      },
-      {
-        "idRespuesta": "13D",
-        "texto": "Avisar a un adulto responsable para que intervenga."
-      }
+      { "idRespuesta": "13C", "texto": "Invitar al compañero excluido a unirse a la partida." },
+      { "idRespuesta": "13A", "texto": "No decir nada y seguir jugando con los demás." },
+      { "idRespuesta": "13B", "texto": "Hacer comentarios burlones para encajar en el grupo." },
+      { "idRespuesta": "13D", "texto": "Contar lo que sucede a un adulto para que intervenga." }
     ]
   },
   {
     "id": 14,
     "titulo": "Rumores sobre la familia",
-    "descripcion": "Difunden mentiras sobre la familia de un compañero en redes.",
+    "descripcion": "Difunden mentiras sobre la familia de un compañero.",
     "preguntas": [
-      {
-        "idRespuesta": "14A",
-        "texto": "Ignorar la situación y no involucrarse."
-      },
-      {
-        "idRespuesta": "14B",
-        "texto": "Unirse a la burla para no quedar mal."
-      },
-      {
-        "idRespuesta": "14C",
-        "texto": "Defender a la víctima y pedir que se detenga."
-      },
-      {
-        "idRespuesta": "14D",
-        "texto": "Avisar a un adulto responsable para que intervenga."
-      }
+      { "idRespuesta": "14C", "texto": "Decir que inventar rumores está mal y debe parar." },
+      { "idRespuesta": "14B", "texto": "Compartir los rumores para parecer divertido." },
+      { "idRespuesta": "14D", "texto": "Informar al profesor para que actúe." },
+      { "idRespuesta": "14A", "texto": "Ignorar los rumores y no intervenir." }
     ]
   },
   {
     "id": 15,
-    "titulo": "Risas por orientación sexual",
-    "descripcion": "Un compañero recibe burlas por su orientación sexual.",
+    "titulo": "Burlas por orientación sexual",
+    "descripcion": "Un compañero recibe risas y burlas por su orientación sexual.",
     "preguntas": [
-      {
-        "idRespuesta": "15A",
-        "texto": "Ignorar la situación y no involucrarse."
-      },
-      {
-        "idRespuesta": "15B",
-        "texto": "Unirse a la burla para no quedar mal."
-      },
-      {
-        "idRespuesta": "15C",
-        "texto": "Defender a la víctima y pedir que se detenga."
-      },
-      {
-        "idRespuesta": "15D",
-        "texto": "Avisar a un adulto responsable para que intervenga."
-      }
+      { "idRespuesta": "15C", "texto": "Decir que eso no es motivo para burlarse." },
+      { "idRespuesta": "15D", "texto": "Avisar a un adulto para que se encargue." },
+      { "idRespuesta": "15B", "texto": "Reírte para no ser blanco de burlas tú también." },
+      { "idRespuesta": "15A", "texto": "Hacer como si no escuchaste nada." }
     ]
   },
   {
     "id": 16,
-    "titulo": "Daño a objetos personales",
-    "descripcion": "Un estudiante rompe los útiles escolares de otro por diversión.",
+    "titulo": "Destrucción de objetos personales",
+    "descripcion": "Un estudiante rompe el cuaderno y los útiles escolares de otro por diversión.",
     "preguntas": [
-      {
-        "idRespuesta": "16A",
-        "texto": "Ignorar la situación y no involucrarse."
-      },
-      {
-        "idRespuesta": "16B",
-        "texto": "Unirse a la burla para no quedar mal."
-      },
-      {
-        "idRespuesta": "16C",
-        "texto": "Defender a la víctima y pedir que se detenga."
-      },
-      {
-        "idRespuesta": "16D",
-        "texto": "Avisar a un adulto responsable para que intervenga."
-      }
+      { "idRespuesta": "16C", "texto": "Pedir que dejen de romper las cosas del compañero." },
+      { "idRespuesta": "16D", "texto": "Avisar al profesor para que tome medidas." },
+      { "idRespuesta": "16B", "texto": "Reírte junto a los demás que lo celebran." },
+      { "idRespuesta": "16A", "texto": "Ignorar la situación para evitar problemas." }
     ]
   },
   {
     "id": 17,
     "titulo": "Apodos ofensivos",
-    "descripcion": "A un alumno le ponen un apodo ofensivo que todos usan.",
+    "descripcion": "Un alumno recibe un apodo humillante que todos repiten.",
     "preguntas": [
-      {
-        "idRespuesta": "17A",
-        "texto": "Ignorar la situación y no involucrarse."
-      },
-      {
-        "idRespuesta": "17B",
-        "texto": "Unirse a la burla para no quedar mal."
-      },
-      {
-        "idRespuesta": "17C",
-        "texto": "Defender a la víctima y pedir que se detenga."
-      },
-      {
-        "idRespuesta": "17D",
-        "texto": "Avisar a un adulto responsable para que intervenga."
-      }
+      { "idRespuesta": "17B", "texto": "Usar el apodo para integrarte al grupo." },
+      { "idRespuesta": "17D", "texto": "Contar la situación a un adulto para que intervenga." },
+      { "idRespuesta": "17A", "texto": "Ignorar los apodos y seguir en silencio." },
+      { "idRespuesta": "17C", "texto": "Decir que poner apodos ofensivos está mal." }
     ]
   },
   {
     "id": 18,
     "titulo": "Empujones en educación física",
-    "descripcion": "En clase de deporte, un grupo empuja constantemente a un alumno.",
+    "descripcion": "Durante la clase de deporte, empujan repetidamente a un compañero.",
     "preguntas": [
-      {
-        "idRespuesta": "18A",
-        "texto": "Ignorar la situación y no involucrarse."
-      },
-      {
-        "idRespuesta": "18B",
-        "texto": "Unirse a la burla para no quedar mal."
-      },
-      {
-        "idRespuesta": "18C",
-        "texto": "Defender a la víctima y pedir que se detenga."
-      },
-      {
-        "idRespuesta": "18D",
-        "texto": "Avisar a un adulto responsable para que intervenga."
-      }
+      { "idRespuesta": "18D", "texto": "Avisar al profesor inmediatamente." },
+      { "idRespuesta": "18C", "texto": "Pedir que paren y respeten a la persona." },
+      { "idRespuesta": "18A", "texto": "Ignorar los empujones para no involucrarte." },
+      { "idRespuesta": "18B", "texto": "Unirte a los empujones para no quedar fuera." }
     ]
   },
   {
     "id": 19,
     "titulo": "Ciberacoso anónimo",
-    "descripcion": "Un perfil falso publica mensajes hirientes hacia un compañero.",
+    "descripcion": "Un perfil falso publica mensajes ofensivos contra un compañero.",
     "preguntas": [
-      {
-        "idRespuesta": "19A",
-        "texto": "Ignorar la situación y no involucrarse."
-      },
-      {
-        "idRespuesta": "19B",
-        "texto": "Unirse a la burla para no quedar mal."
-      },
-      {
-        "idRespuesta": "19C",
-        "texto": "Defender a la víctima y pedir que se detenga."
-      },
-      {
-        "idRespuesta": "19D",
-        "texto": "Avisar a un adulto responsable para que intervenga."
-      }
+      { "idRespuesta": "19D", "texto": "Avisar a un adulto o denunciar la cuenta." },
+      { "idRespuesta": "19C", "texto": "Escribir que esos ataques están mal." },
+      { "idRespuesta": "19A", "texto": "Ignorar los mensajes y no hacer nada." },
+      { "idRespuesta": "19B", "texto": "Hacer bromas sobre el tema para encajar." }
     ]
   },
   {
     "id": 20,
     "titulo": "Aislamiento en el comedor",
-    "descripcion": "Un grupo no permite que un compañero se siente con ellos a comer.",
+    "descripcion": "Un grupo no deja que un compañero se siente en su mesa para almorzar.",
     "preguntas": [
-      {
-        "idRespuesta": "20A",
-        "texto": "Ignorar la situación y no involucrarse."
-      },
-      {
-        "idRespuesta": "20B",
-        "texto": "Unirse a la burla para no quedar mal."
-      },
-      {
-        "idRespuesta": "20C",
-        "texto": "Defender a la víctima y pedir que se detenga."
-      },
-      {
-        "idRespuesta": "20D",
-        "texto": "Avisar a un adulto responsable para que intervenga."
-      }
+      { "idRespuesta": "20C", "texto": "Invitar al compañero a sentarse contigo." },
+      { "idRespuesta": "20B", "texto": "Burlarte de la persona para agradar al grupo." },
+      { "idRespuesta": "20D", "texto": "Avisar a un adulto para que actúe." },
+      { "idRespuesta": "20A", "texto": "Ignorar la situación y sentarte en otro lugar." }
     ]
   }
 ]

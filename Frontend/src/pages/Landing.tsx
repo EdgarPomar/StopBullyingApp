@@ -6,7 +6,7 @@ export default function Landing() {
   return (
     <div style={styles.container}>
       <img
-        src="https://cdn.pixabay.com/photo/2017/06/30/09/21/stop-2452758_960_720.png"
+        src="/public/logo.png"
         alt="Stop Bullying"
         style={styles.image}
       />
